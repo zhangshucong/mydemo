@@ -162,7 +162,7 @@ html {
 }
 
 .page2 img:nth-child(3) {
-    top:2.2rem;
+    top:1.9rem;
     margin: 0 1.8rem;
     width: 2.8rem;
     height: 2.8rem;
@@ -207,7 +207,7 @@ html {
     animation: zoomIn 1s linear .9s 1 both;
 }
 .page2 .contentUl{
-    position: absolute;top: 5.5rem;opacity: 0;
+    position: absolute;top: 5.2rem;opacity: 0;
 }
 .element-box{
     width: 100%; height: 100%; top: 9px; left: 14px; z-index: 1; transform: none; animation: fadeInRight 2s ease 0s 1 both;
