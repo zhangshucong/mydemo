@@ -257,7 +257,7 @@ html {
 }
 
 .page3 img:nth-child(3) {
-    top:2rem;
+    top:1.8rem;
     margin: 0 1.8rem;
     width: 2.8rem;
     height: 2.8rem;
@@ -289,8 +289,8 @@ html {
 .page3 img:nth-child(8) {
     bottom:0.5rem;
     margin-left:0.8rem;
-    width: 4.8rem;
-    height: 1.9rem;
+    width: 4.5rem;
+    height: 1.78rem;
     opacity: 0.8;
 }
 .page3 img:nth-child(9) {
