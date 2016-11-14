@@ -169,10 +169,10 @@ html {
 }
 .page2 img:nth-child(4) {
     bottom: 0.2rem;
-    left:1.9rem;
+    left:0.7rem;
     z-index: 19;
-    height: 3rem;
-    width: 2.5rem;
+    height: 2rem;
+    width: 5rem;
 }
 
 #page2 img:nth-child(1) {
@@ -215,14 +215,14 @@ html {
 .page2 .contentUl .rightbox{
     width: 3.2rem;
     position: absolute;
-    left:-0.2rem;
+    left:-0.4rem;
     transform: rotateZ(0deg); display: block;
     opacity: 0;
 }
 .page2 .contentUl .leftbox{
     width: 3.2rem;
     position: absolute;
-    left: 3.3rem;
+    left: 3.2rem;
     transform: rotateZ(0deg); display: block;
     opacity: 0;
 }
@@ -257,31 +257,31 @@ html {
 }
 
 .page3 img:nth-child(3) {
-    top:2.2rem;
+    top:2rem;
     margin: 0 1.8rem;
     width: 2.8rem;
     height: 2.8rem;
 }
 .page3 img:nth-child(4) {
-    top:2.9rem;
+    top:2.7rem;
     margin: 0 2.13rem;
     width: 2.14rem;
     height: 1.2rem;
 }
 .page3 img:nth-child(5) {
-    top:5.5rem;
+    top:5.3rem;
     margin: 0 2.2rem;
     width: 2rem;
     height: 1.95rem;
 }
 .page3 img:nth-child(6) {
-    top: 6.5rem;
+    top: 6.3rem;
     margin-left: 0.2rem;
     width: 2rem;
     height: 1.95rem;
 }
 .page3 img:nth-child(7) {
-    top:6.5rem;
+    top:6.3rem;
     margin-left:4.2rem;
     width: 2rem;
     height: 1.95rem;
@@ -290,19 +290,22 @@ html {
     bottom:0.5rem;
     margin-left:0.8rem;
     width: 4.8rem;
-    height: 1.91rem;
+    height: 1.9rem;
+    opacity: 0.8;
 }
 .page3 img:nth-child(9) {
     bottom:0.5rem;
     margin-left:3.5rem;
     width: 1.57rem;
     height: 0.4rem;
+    opacity: 0.8;
 }
 .page3 img:nth-child(10) {
     bottom:0.4rem;
     margin-left:3.5rem;
     width: 1.51rem;
     height: 0.13rem;
+    opacity: 0.8;
 }
 
 #page3 img:nth-child(1) {
